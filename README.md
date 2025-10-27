@@ -1,38 +1,70 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Elly%20and%20this%20is%20My%20World!&fontSize=35&fontColor=FFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<p align="center">| Developer Full-stack | Junior | HTML, CSS, Python, Javascript | Information Systems student |</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=10&fontColor=FFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<h2 align="center">SOCIAL</h2>
+
+###
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=38B6FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+%5BSEU+NOME%5D;Estudante+de+Sistemas+de+Informação;Desenvolvedora+em+Formação" alt="Animação de digitação - Hi, I'am Elly">
+  <a href="https://www.linkedin.com/in/amanda-lima-fullstack" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.instagram.com/ellyhtts" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="a.ellenlima87@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-<div align="left" style="padding-top: 30px;">
-  <h2>I'm a second-semester Information Systems student at Unex, with initial experience as a junior developer. I'm interested in deepening my knowledge and becoming increasingly specialized in the world of technology. I have basic knowledge of Python, HTML, and CSS, and I'm motivated to learn new languages ​​and tools to contribute effectively to projects and technological challenges.</h2>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=10&fontColor=FFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-<img src="https://raw.githubusercontent.com/BGOonz/BGOonz/main/images/README/blue-hr.svg" alt="Divisor" style="width:100%;" />
-<div style="padding-top: 10px;">
-  <h3 align="left">🚀 Tecnologias e Ferramentas</h3>
-  <p align="left">
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-    </a>
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-      <img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    </a>
-  </p>
+
+###
+
+<h2 align="center">SKILS</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-<img src="https://raw.githubusercontent.com/BGOonz/BGOonz/main/images/README/blue-hr.svg" alt="Divisor" style="width:100%;" />
-<div style="padding-top: 10px;">
-  <h3 align="left">📬 Vamos Conectar!</h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/amanda-lima-fullstack" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn">
-    </a>
-  </p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+
+###
