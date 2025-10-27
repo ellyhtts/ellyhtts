@@ -9,7 +9,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=10&fontColor=FFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=10&fontColor=FFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="a.ellenlima87@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="Downloads\gmail_new_logo_icon_159149.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
