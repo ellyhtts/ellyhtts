@@ -1,5 +1,5 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=Hello%20World!&fontSize=50&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&color=gradient"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=Hello%20World!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&color=e67e22" />
 </div>
 
 ###
@@ -25,27 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,wordpress,vscode,figma,bootstrap,postgres,git&theme=dark" />
 </div>
 
 ###
@@ -56,20 +36,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-lima-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-e67e22?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="amanda.carreira.profissional@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  &nbsp;
+  <a href="mailto:amanda.carreira.profissional@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d35400?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/ellyhtts/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-e74c3c?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ellyhtts&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+  <img src="https://streak-stats.demolab.com?user=ellyhtts&locale=en&mode=daily&theme=tokyonight&fire=e67e22&ring=d35400&currStreakNum=e67e22&sideLabels=ffffff&dates=
